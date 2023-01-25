@@ -1,0 +1,539 @@
+01/18/2023 08:23:51 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:23:52 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:23:53 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:23:54 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:23:57 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:23:58 PM: INFO: **** Entering user information ****
+01/18/2023 08:23:59 PM: INFO: **** Submitting user information ****
+01/18/2023 08:24:09 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:37:58 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:37:58 PM: INFO: Get LATEST edgedriver version for 108.0.1462 Edge
+01/18/2023 08:37:59 PM: INFO: There is no [win64] edgedriver for browser 108.0.1462 in cache
+01/18/2023 08:37:59 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/108.0.1462.87/edgedriver_win64.zip
+01/18/2023 08:38:10 PM: INFO: Driver has been saved in cache [C:\Users\Gokul Dev P\.wdm\drivers\edgedriver\win64\108.0.1462]
+01/18/2023 08:38:12 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:38:14 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:38:15 PM: INFO: **** Entering user information ****
+01/18/2023 08:38:15 PM: INFO: **** Submitting user information ****
+01/18/2023 08:38:25 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:40:11 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:40:12 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 08:40:13 PM: INFO: There is no [win64] geckodriver for browser 108.0 in cache
+01/18/2023 08:40:13 PM: INFO: Getting latest mozilla release info for v0.32.0
+01/18/2023 08:40:13 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+01/18/2023 08:40:19 PM: INFO: Driver has been saved in cache [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32]
+01/18/2023 08:40:46 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:40:47 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 08:40:48 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 08:41:37 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:41:38 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 08:41:39 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 08:41:45 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:41:47 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:41:48 PM: INFO: **** Entering user information ****
+01/18/2023 08:41:48 PM: INFO: **** Submitting user information ****
+01/18/2023 08:41:59 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:45:49 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:45:50 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:45:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:45:54 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:45:56 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:45:56 PM: INFO: **** Entering user information ****
+01/18/2023 08:45:57 PM: INFO: **** Submitted user information ****
+01/18/2023 08:46:08 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:46:47 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:46:48 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:46:49 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:46:50 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:46:52 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:46:53 PM: INFO: **** Entering user information ****
+01/18/2023 08:46:54 PM: INFO: **** Submitted user information ****
+01/18/2023 08:47:05 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:51:18 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:51:19 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:51:20 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:51:21 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:51:24 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:51:24 PM: INFO: **** Entering user information ****
+01/18/2023 08:51:25 PM: INFO: **** Submitted user information ****
+01/18/2023 08:51:35 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:52:12 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:52:12 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:52:13 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:52:15 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:52:16 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:52:17 PM: INFO: **** Entering user information ****
+01/18/2023 08:52:18 PM: INFO: **** Submitted user information ****
+01/18/2023 08:52:28 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 08:53:54 PM: INFO: ====== WebDriver manager ======
+01/18/2023 08:53:55 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 08:53:56 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 08:53:58 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 08:54:00 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 08:54:00 PM: INFO: **** Entering user information ****
+01/18/2023 08:54:01 PM: INFO: **** Submitted user information ****
+01/18/2023 08:54:12 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:07:22 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:07:23 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:07:25 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:07:32 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:07:36 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:07:37 PM: INFO: **** Entering user information ****
+01/18/2023 09:07:38 PM: INFO: **** Submitted user information ****
+01/18/2023 09:07:49 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:09:13 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:09:14 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:09:16 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:09:23 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:09:25 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:09:26 PM: INFO: **** Entering user information ****
+01/18/2023 09:09:27 PM: INFO: **** Submitted user information ****
+01/18/2023 09:09:38 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:14:32 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:14:33 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:14:34 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:14:42 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:14:44 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:14:45 PM: INFO: **** Entering user information ****
+01/18/2023 09:14:46 PM: INFO: **** Submitted user information ****
+01/18/2023 09:14:57 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:16:26 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:16:27 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:16:29 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:16:36 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:16:40 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:16:41 PM: INFO: **** Entering user information ****
+01/18/2023 09:16:42 PM: INFO: **** Submitted user information ****
+01/18/2023 09:16:53 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:19:55 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:19:56 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:19:57 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:20:59 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:21:00 PM: INFO: Get LATEST geckodriver version for 108.0 firefox
+01/18/2023 09:21:02 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+01/18/2023 09:21:09 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:21:12 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:21:13 PM: INFO: **** Entering user information ****
+01/18/2023 09:21:14 PM: INFO: **** Submitted user information ****
+01/18/2023 09:21:24 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:24:01 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:24:02 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+01/18/2023 09:24:03 PM: INFO: There is no [win64] edgedriver for browser 109.0.1518 in cache
+01/18/2023 09:24:03 PM: INFO: About to download new driver from https://msedgedriver.azureedge.net/109.0.1518.55/edgedriver_win64.zip
+01/18/2023 09:24:25 PM: INFO: Driver has been saved in cache [C:\Users\Gokul Dev P\.wdm\drivers\edgedriver\win64\109.0.1518]
+01/18/2023 09:24:27 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:24:29 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:24:30 PM: INFO: **** Entering user information ****
+01/18/2023 09:24:31 PM: INFO: **** Submitted user information ****
+01/18/2023 09:24:41 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 09:25:46 PM: INFO: ====== WebDriver manager ======
+01/18/2023 09:25:47 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 09:25:48 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 09:25:50 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 09:25:52 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 09:25:53 PM: INFO: **** Entering user information ****
+01/18/2023 09:25:54 PM: INFO: **** Submitted user information ****
+01/18/2023 09:26:04 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:10:02 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:10:03 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:10:04 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:10:30 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:10:31 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:10:32 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:10:49 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:10:50 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:10:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:10:52 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:10:54 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:10:54 PM: INFO: **** Entering user information ****
+01/18/2023 10:10:55 PM: INFO: **** Submitted user information ****
+01/18/2023 10:11:06 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:28:14 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:28:16 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:28:17 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:28:19 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:28:21 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:28:22 PM: INFO: **** Entering user information ****
+01/18/2023 10:28:23 PM: INFO: **** Submitted user information ****
+01/18/2023 10:28:33 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:32:34 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:32:35 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:32:36 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:32:37 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:32:39 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:32:40 PM: INFO: **** Entering user information ****
+01/18/2023 10:32:41 PM: INFO: **** Submitted user information ****
+01/18/2023 10:32:51 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:34:36 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:34:37 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:34:38 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:34:40 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:34:41 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:34:41 PM: INFO: **** Entering user information ****
+01/18/2023 10:34:43 PM: INFO: **** Submitted user information ****
+01/18/2023 10:34:53 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:35:36 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:35:37 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:35:38 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:35:39 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:35:41 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:35:42 PM: INFO: **** Entering user information ****
+01/18/2023 10:35:43 PM: INFO: **** Submitted user information ****
+01/18/2023 10:35:53 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:37:44 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:37:45 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:37:46 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:37:47 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:37:49 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:37:49 PM: INFO: **** Entering user information ****
+01/18/2023 10:37:50 PM: INFO: **** Submitted user information ****
+01/18/2023 10:38:01 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:40:48 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:40:49 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:40:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:40:52 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:40:54 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:40:55 PM: INFO: **** Entering user information ****
+01/18/2023 10:40:56 PM: INFO: **** Submitted user information ****
+01/18/2023 10:41:06 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:42:54 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:42:55 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:42:56 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:42:58 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:43:00 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:43:00 PM: INFO: **** Entering user information ****
+01/18/2023 10:43:02 PM: INFO: **** Submitted user information ****
+01/18/2023 10:43:12 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:46:00 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:46:01 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:46:02 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:46:03 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:46:06 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:46:07 PM: INFO: **** Entering user information ****
+01/18/2023 10:46:08 PM: INFO: **** Submitted user information ****
+01/18/2023 10:46:18 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:49:07 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:49:08 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:49:09 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:49:10 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:49:13 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:49:13 PM: INFO: **** Entering user information ****
+01/18/2023 10:49:14 PM: INFO: **** Submitted user information ****
+01/18/2023 10:49:25 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:51:06 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:51:06 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:51:08 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:51:09 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:51:11 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:51:11 PM: INFO: **** Entering user information ****
+01/18/2023 10:51:13 PM: INFO: **** Submitted user information ****
+01/18/2023 10:51:23 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:53:20 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:53:21 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:53:22 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:53:24 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:53:26 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:53:27 PM: INFO: **** Entering user information ****
+01/18/2023 10:53:28 PM: INFO: **** Submitted user information ****
+01/18/2023 10:53:38 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 10:59:20 PM: INFO: ====== WebDriver manager ======
+01/18/2023 10:59:21 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 10:59:22 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 10:59:24 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 10:59:25 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 10:59:26 PM: INFO: **** Entering user information ****
+01/18/2023 10:59:27 PM: INFO: **** Submitted user information ****
+01/18/2023 10:59:38 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:02:40 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:02:40 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:02:41 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:02:43 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:02:44 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:02:45 PM: INFO: **** Entering user information ****
+01/18/2023 11:02:46 PM: INFO: **** Submitted user information ****
+01/18/2023 11:02:56 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:04:16 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:04:17 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:04:18 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:04:20 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:04:21 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:04:22 PM: INFO: **** Entering user information ****
+01/18/2023 11:04:23 PM: INFO: **** Submitted user information ****
+01/18/2023 11:04:33 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:06:54 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:06:55 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:06:57 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:06:58 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:07:00 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:07:00 PM: INFO: **** Entering user information ****
+01/18/2023 11:07:02 PM: INFO: **** Submitted user information ****
+01/18/2023 11:07:12 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:08:33 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:08:34 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:08:35 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:08:36 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:08:38 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:08:38 PM: INFO: **** Entering user information ****
+01/18/2023 11:08:39 PM: INFO: **** Submitted user information ****
+01/18/2023 11:08:50 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:11:28 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:11:29 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:11:30 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:11:31 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:11:33 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:11:33 PM: INFO: **** Entering user information ****
+01/18/2023 11:11:34 PM: INFO: **** Submitted user information ****
+01/18/2023 11:11:45 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:17:18 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:17:18 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:17:20 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:17:21 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:17:25 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:17:26 PM: INFO: **** Entering user information ****
+01/18/2023 11:17:27 PM: INFO: **** Submitted user information ****
+01/18/2023 11:17:37 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:18:35 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:18:36 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:18:37 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:18:38 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:18:41 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:18:42 PM: INFO: **** Entering user information ****
+01/18/2023 11:18:43 PM: INFO: **** Submitted user information ****
+01/18/2023 11:18:53 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:20:56 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:20:57 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/18/2023 11:20:58 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/18/2023 11:20:59 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:21:01 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:21:03 PM: INFO: **** Entering user information ****
+01/18/2023 11:21:05 PM: INFO: **** Submitted user information ****
+01/18/2023 11:21:15 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:22:28 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:22:29 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+01/18/2023 11:22:30 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+01/18/2023 11:22:32 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:22:34 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:22:35 PM: INFO: **** Entering user information ****
+01/18/2023 11:22:36 PM: INFO: **** Submitted user information ****
+01/18/2023 11:22:41 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:28:57 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:28:58 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+01/18/2023 11:29:00 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+01/18/2023 11:29:01 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:29:03 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:29:04 PM: INFO: **** Entering user information ****
+01/18/2023 11:29:05 PM: INFO: **** Submitted user information ****
+01/18/2023 11:29:10 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/18/2023 11:30:10 PM: INFO: ====== WebDriver manager ======
+01/18/2023 11:30:11 PM: INFO: Get LATEST edgedriver version for 109.0.1518 Edge
+01/18/2023 11:30:13 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\edgedriver\win64\109.0.1518\msedgedriver.exe] found in cache
+01/18/2023 11:30:14 PM: INFO: **** test 001 AccountRegistration Started ****
+01/18/2023 11:30:16 PM: INFO: **** Navigating to Registration page ****
+01/18/2023 11:30:17 PM: INFO: **** Entering user information ****
+01/18/2023 11:30:18 PM: INFO: **** Submitted user information ****
+01/18/2023 11:30:23 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/19/2023 12:38:19 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:38:20 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:38:21 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+01/19/2023 12:38:23 PM: INFO: Driver has been saved in cache [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414]
+01/19/2023 12:38:25 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:38:27 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:38:28 PM: INFO: **** Entering user information ****
+01/19/2023 12:38:29 PM: INFO: **** submit user information ****
+01/19/2023 12:38:34 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:40:11 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:40:12 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:40:13 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:40:14 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:40:17 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:40:17 PM: INFO: **** Entering user information ****
+01/19/2023 12:40:18 PM: INFO: **** submit user information ****
+01/19/2023 12:40:23 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:45:21 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:45:22 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:45:24 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:45:25 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:45:28 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:45:28 PM: INFO: **** Entering user information ****
+01/19/2023 12:45:29 PM: INFO: **** submit user information ****
+01/19/2023 12:45:34 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:46:16 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:46:17 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:46:18 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:46:19 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:46:22 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:46:22 PM: INFO: **** Entering user information ****
+01/19/2023 12:46:23 PM: INFO: **** submit user information ****
+01/19/2023 12:46:28 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:51:20 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:51:21 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:51:22 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:51:24 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:51:26 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:51:27 PM: INFO: **** Entering user information ****
+01/19/2023 12:51:27 PM: INFO: **** submit user information ****
+01/19/2023 12:51:32 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:53:08 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:53:09 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:53:10 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:53:12 PM: INFO: **** test 001 test valid login ****
+01/19/2023 12:53:14 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:53:15 PM: INFO: **** Entering user information ****
+01/19/2023 12:53:15 PM: INFO: **** submit user information ****
+01/19/2023 12:53:20 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 12:58:36 PM: INFO: ====== WebDriver manager ======
+01/19/2023 12:58:37 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 12:58:38 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 12:58:40 PM: INFO: **** test 002 test valid login ****
+01/19/2023 12:58:42 PM: INFO: **** Navigating to Login page ****
+01/19/2023 12:58:43 PM: INFO: **** Entering user information ****
+01/19/2023 12:58:43 PM: INFO: **** submit user information ****
+01/19/2023 12:58:48 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 01:03:42 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:03:42 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:03:43 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:03:43 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:03:45 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:03:45 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:03:46 PM: INFO: **** test 001 AccountRegistration Started ****
+01/19/2023 01:03:46 PM: INFO: **** test 001 AccountRegistration Started ****
+01/19/2023 01:03:48 PM: INFO: **** Navigating to Registration page ****
+01/19/2023 01:03:48 PM: INFO: **** Navigating to Registration page ****
+01/19/2023 01:03:48 PM: INFO: **** Entering user information ****
+01/19/2023 01:03:48 PM: INFO: **** Entering user information ****
+01/19/2023 01:03:49 PM: INFO: **** Submitted user information ****
+01/19/2023 01:03:49 PM: INFO: **** Submitted user information ****
+01/19/2023 01:03:55 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/19/2023 01:03:55 PM: ERROR: **** test 001 AccountRegistration Failed ****
+01/19/2023 01:04:11 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:04:11 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:04:12 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:04:12 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:04:13 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:04:13 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:04:15 PM: INFO: **** test 002 test valid login ****
+01/19/2023 01:04:15 PM: INFO: **** test 002 test valid login ****
+01/19/2023 01:04:17 PM: INFO: **** Navigating to Login page ****
+01/19/2023 01:04:17 PM: INFO: **** Navigating to Login page ****
+01/19/2023 01:04:18 PM: INFO: **** Entering user information ****
+01/19/2023 01:04:18 PM: INFO: **** Entering user information ****
+01/19/2023 01:04:19 PM: INFO: **** submit user information ****
+01/19/2023 01:04:19 PM: INFO: **** submit user information ****
+01/19/2023 01:04:24 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 01:04:24 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 01:07:03 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:07:04 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:07:05 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:07:06 PM: INFO: **** test 002 test valid login ****
+01/19/2023 01:07:09 PM: INFO: **** Navigating to Login page ****
+01/19/2023 01:07:10 PM: INFO: **** Entering user information ****
+01/19/2023 01:07:11 PM: INFO: **** submit user information ****
+01/19/2023 01:07:16 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 01:10:24 PM: INFO: ====== WebDriver manager ======
+01/19/2023 01:10:25 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 01:10:27 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 01:10:28 PM: INFO: **** test 002 test valid login ****
+01/19/2023 01:10:30 PM: INFO: **** Navigating to Login page ****
+01/19/2023 01:10:31 PM: INFO: **** Entering user information ****
+01/19/2023 01:10:31 PM: INFO: **** submit user information ****
+01/19/2023 01:10:36 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 05:15:47 PM: INFO: ====== WebDriver manager ======
+01/19/2023 05:15:48 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 05:15:49 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 05:15:52 PM: INFO: **** test 002 test valid login ****
+01/19/2023 05:15:54 PM: INFO: **** Navigating to Login page ****
+01/19/2023 05:15:55 PM: INFO: **** Entering user information ****
+01/19/2023 05:17:18 PM: INFO: ====== WebDriver manager ======
+01/19/2023 05:17:18 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 05:17:19 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 05:17:20 PM: INFO: **** test 002 test valid login ****
+01/19/2023 05:17:23 PM: INFO: **** Navigating to Login page ****
+01/19/2023 05:17:23 PM: INFO: **** Entering user information ****
+01/19/2023 05:17:24 PM: INFO: **** submit user information ****
+01/19/2023 05:17:29 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 05:26:16 PM: INFO: ====== WebDriver manager ======
+01/19/2023 05:26:16 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 05:26:18 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 05:26:19 PM: INFO: **** test 002 test valid login ****
+01/19/2023 05:26:21 PM: INFO: **** Navigating to Login page ****
+01/19/2023 05:26:22 PM: INFO: **** Entering user information ****
+01/19/2023 05:26:22 PM: INFO: **** submit user information ****
+01/19/2023 05:26:27 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 05:27:10 PM: INFO: ====== WebDriver manager ======
+01/19/2023 05:27:11 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 05:27:11 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 05:27:13 PM: INFO: **** test 002 test valid login ****
+01/19/2023 05:27:57 PM: INFO: ====== WebDriver manager ======
+01/19/2023 05:27:58 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 05:27:58 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 05:28:00 PM: INFO: **** test 002 test valid login ****
+01/19/2023 05:28:02 PM: INFO: **** Navigating to Login page ****
+01/19/2023 05:28:02 PM: INFO: **** Entering user information ****
+01/19/2023 05:28:03 PM: INFO: **** submit user information ****
+01/19/2023 05:28:08 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 06:02:08 PM: INFO: ====== WebDriver manager ======
+01/19/2023 06:02:09 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 06:02:10 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 06:02:11 PM: INFO: **** Test 003 login data driven testing ****
+01/19/2023 06:02:13 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:02:14 PM: INFO: **** Getting the Email:pavanoltraining@gmail.com and Password:test123 ****
+01/19/2023 06:02:14 PM: INFO: **** Entering user information ****
+01/19/2023 06:02:15 PM: INFO: **** submit user information ****
+01/19/2023 06:02:20 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:02:21 PM: INFO: **** Getting the Email:pavanoltraining@gmail.com and Password:test ****
+01/19/2023 06:02:21 PM: INFO: **** Entering user information ****
+01/19/2023 06:02:22 PM: INFO: **** submit user information ****
+01/19/2023 06:02:27 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:02:28 PM: INFO: **** Getting the Email:pavan@gmail.com and Password:test123 ****
+01/19/2023 06:02:28 PM: INFO: **** Entering user information ****
+01/19/2023 06:02:29 PM: INFO: **** submit user information ****
+01/19/2023 06:02:34 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:02:35 PM: INFO: **** Getting the Email:pavan@gmail.com and Password:test ****
+01/19/2023 06:02:35 PM: INFO: **** Entering user information ****
+01/19/2023 06:02:36 PM: INFO: **** submit user information ****
+01/19/2023 06:02:41 PM: ERROR: **** Test Failed ****
+01/19/2023 06:10:08 PM: INFO: ====== WebDriver manager ======
+01/19/2023 06:10:09 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 06:10:10 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 06:10:11 PM: INFO: **** Test 003 login data driven testing ****
+01/19/2023 06:10:13 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:10:14 PM: INFO: **** Getting the Email:pavanoltraining@gmail.com and Password:test123 ****
+01/19/2023 06:10:14 PM: INFO: **** Entering user information ****
+01/19/2023 06:10:14 PM: INFO: **** submit user information ****
+01/19/2023 06:10:20 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:10:21 PM: INFO: **** Getting the Email:pavanoltraining@gmail.com and Password:test ****
+01/19/2023 06:10:21 PM: INFO: **** Entering user information ****
+01/19/2023 06:10:22 PM: INFO: **** submit user information ****
+01/19/2023 06:10:27 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:10:28 PM: INFO: **** Getting the Email:pavan@gmail.com and Password:test123 ****
+01/19/2023 06:10:28 PM: INFO: **** Entering user information ****
+01/19/2023 06:10:29 PM: INFO: **** submit user information ****
+01/19/2023 06:10:34 PM: INFO: **** Navigating to Login page ****
+01/19/2023 06:10:35 PM: INFO: **** Getting the Email:pavan@gmail.com and Password:test ****
+01/19/2023 06:10:35 PM: INFO: **** Entering user information ****
+01/19/2023 06:10:35 PM: INFO: **** submit user information ****
+01/19/2023 06:10:41 PM: ERROR: **** Test Failed ****
+01/19/2023 10:05:49 PM: INFO: ====== WebDriver manager ======
+01/19/2023 10:05:49 PM: INFO: ====== WebDriver manager ======
+01/19/2023 10:05:49 PM: INFO: ====== WebDriver manager ======
+01/19/2023 10:05:50 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 10:05:50 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 10:05:50 PM: INFO: Get LATEST chromedriver version for google-chrome 109.0.5414
+01/19/2023 10:05:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 10:05:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 10:05:51 PM: INFO: Driver [C:\Users\Gokul Dev P\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+01/19/2023 10:05:52 PM: INFO: **** test 002 test valid login ****
+01/19/2023 10:05:52 PM: INFO: **** test 002 test valid login ****
+01/19/2023 10:05:52 PM: INFO: **** test 002 test valid login ****
+01/19/2023 10:05:54 PM: INFO: **** Navigating to Login page ****
+01/19/2023 10:05:54 PM: INFO: **** Navigating to Login page ****
+01/19/2023 10:05:54 PM: INFO: **** Navigating to Login page ****
+01/19/2023 10:05:55 PM: INFO: **** Entering user information ****
+01/19/2023 10:05:55 PM: INFO: **** Entering user information ****
+01/19/2023 10:05:55 PM: INFO: **** Entering user information ****
+01/19/2023 10:05:55 PM: INFO: **** submit user information ****
+01/19/2023 10:05:55 PM: INFO: **** submit user information ****
+01/19/2023 10:05:55 PM: INFO: **** submit user information ****
+01/19/2023 10:06:00 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 10:06:00 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
+01/19/2023 10:06:00 PM: ERROR: **** Test 001 test Valid Login tested Fail ****
